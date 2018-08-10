@@ -12,4 +12,4 @@ VR Deployment
 Unity Scene development
   getting started
   components of a Unity project
-  GameObject primitives
+  GameObject primi
