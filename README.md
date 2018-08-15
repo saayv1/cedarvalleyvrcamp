@@ -6,10 +6,16 @@ Course material, projects undertaken by high school students at Cedar Valley for
 Course material
 
 Unity scene development
-VR concepts
+Sample projects
 VR Deployment
 
 Unity Scene development
-  getting started
-  components of a Unity project
+  Getting started
+  Components of a Unity project
   GameObject primitives
+  Unity Asset Store GameObjects
+  GameObjects from other marketplaces
+  Materials and Textures
+  Terrain
+  Object hierarchy
+  
