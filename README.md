@@ -1,15 +1,15 @@
-# cedarvalleyvrcamp
+# cedarvalleyvrcamp #
 Course material, projects undertaken by high school students at Cedar Valley for a 2 week VR bootcamp
 
 *still under development
 
-Course material
+## Course material ##
 
-Unity scene development
-Sample projects
-VR Deployment
+### Unity scene development ###
+### Sample projects ###
+### VR Deployment  ###
 
-Unity Scene development
+### Unity Scene development ###
   Getting started
   Components of a Unity project
   GameObject primitives
@@ -19,7 +19,7 @@ Unity Scene development
   Terrain
   Object hierarchy
   
-Sample projects
+### Sample projects ###
   football stadium
   solar system
   treasure hunt
@@ -27,6 +27,6 @@ Sample projects
   kill the bad guys VR
   dodge the obstacles
   
-VR deployment
+### VR deployment ###
   Google cardboard
   Samsung Gear VR
