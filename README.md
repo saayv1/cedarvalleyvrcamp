@@ -9,7 +9,8 @@ Course material, projects undertaken by high school students at Cedar Valley for
   * ### VR Deployment  ###
 
 ### Unity Scene development ###
-  * Getting started
+  * ### Getting started ###
+     Follow the download and installation instructions [here](https://unity3d.com/get-unity/download)
   * Components of a Unity project
   * GameObject primitives
   * Unity Asset Store GameObjects
@@ -29,3 +30,5 @@ Course material, projects undertaken by high school students at Cedar Valley for
 ### VR deployment ###
   * Google cardboard
   * Samsung Gear VR
+
+
