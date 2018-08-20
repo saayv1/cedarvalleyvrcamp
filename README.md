@@ -19,13 +19,13 @@ Course material, projects undertaken by high school students at Cedar Valley for
   * Object hierarchy
   
 ### Sample projects ###
-  football stadium
-  solar system
-  treasure hunt
-  treasure hunt VR
-  kill the bad guys VR
-  dodge the obstacles
+  * football stadium
+  * solar system
+  * treasure hunt
+  * treasure hunt VR
+  * kill the bad guys VR
+  * dodge the obstacles
   
 ### VR deployment ###
-  Google cardboard
-  Samsung Gear VR
+  * Google cardboard
+  * Samsung Gear VR
