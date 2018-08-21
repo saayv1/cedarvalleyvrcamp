@@ -30,6 +30,8 @@ Course material, projects undertaken by high school students at Cedar Valley for
   
 ### VR deployment ###
   * Google cardboard
+     Make sure that the Android Build Support component is selected during installation.
+     
   * Samsung Gear VR
 
 
