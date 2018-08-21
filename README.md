@@ -33,6 +33,11 @@ Course material, projects undertaken by high school students at Cedar Valley for
      * Make sure that the Android Build Support component is selected during installation.
      ![alt text](https://github.com/saayv1/cedarvalleyvrcamp/blob/master/installer-android-build-support.png "Install android")
      * Download and install [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and [Android Studio](https://developer.android.com/studio/install)
+     * In your unity project,
+      * Select File > Build Settings.
+      * Select Android and click Switch Platform.
+      * In the Build Settings window, click Player Settings.
+      
      
   * Samsung Gear VR
 
