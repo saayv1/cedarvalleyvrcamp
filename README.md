@@ -20,7 +20,7 @@ Course material, projects undertaken by high school students at Cedar Valley for
   * Object hierarchy
   
 ### Sample projects ###
-  * football stadium
+  * [art museum](https://github.com/saayv1/art_museum)
   * [solar system](https://github.com/saayv1/solar_system)
   * treasure hunt
   * treasure hunt VR
