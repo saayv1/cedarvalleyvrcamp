@@ -23,8 +23,8 @@ Course material, projects undertaken by high school students at Cedar Valley for
   * [art museum](https://github.com/saayv1/art_museum)
   * [solar system](https://github.com/saayv1/solar_system)
   * treasure hunt
-  * treasure hunt VR
-  * destroy objects using raycasting VR
+  * [treasure hunt VR](https://github.com/saayv1/treasure_island_vr)
+  * [destroy objects using raycasting VR](https://github.com/saayv1/raycast_object_destroy)
   * dodge the obstacles
   
 ### VR deployment ###
