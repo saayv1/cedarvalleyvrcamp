@@ -24,7 +24,7 @@ Course material, projects undertaken by high school students at Cedar Valley for
   * [solar system](https://github.com/saayv1/solar_system)
   * treasure hunt
   * treasure hunt VR
-  * kill the bad guys VR
+  * destroy objects using raycasting VR
   * dodge the obstacles
   
 ### VR deployment ###
