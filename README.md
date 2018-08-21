@@ -21,7 +21,7 @@ Course material, projects undertaken by high school students at Cedar Valley for
   
 ### Sample projects ###
   * football stadium
-  * solar system
+  * [solar system](https://github.com/saayv1/solar_system)
   * treasure hunt
   * treasure hunt VR
   * kill the bad guys VR
