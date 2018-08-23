@@ -12,6 +12,7 @@ Course material, projects undertaken by high school students at Cedar Valley for
   * ### Getting started ###
      Follow the download and installation instructions [here](https://unity3d.com/get-unity/download)
   * Components of a Unity project
+     
   * GameObject primitives
   * Unity Asset Store GameObjects
   * GameObjects from other marketplaces
@@ -26,7 +27,6 @@ Course material, projects undertaken by high school students at Cedar Valley for
   * [treasure hunt](https://github.com/saayv1/treasure_island_unity)
   * [treasure hunt VR](https://github.com/saayv1/treasure_island_vr)
   * [destroy objects using raycasting VR](https://github.com/saayv1/raycast_object_destroy)
-  * dodge the obstacles
   
 ### VR deployment ###
   * Google cardboard
