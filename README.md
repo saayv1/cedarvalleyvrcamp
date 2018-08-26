@@ -46,3 +46,4 @@ Course material, projects undertaken by high school students at Cedar Valley for
       * Select File > Build Settings.
       * Select Android and click Switch Platform.
       * In the Build Settings window, click Player Settings.
+      * change the minimum build API to Android 4.4
