@@ -38,6 +38,7 @@ Course material, projects undertaken by high school students at Cedar Valley for
       * Select Android and click Switch Platform.
       * In the Build Settings window, click Player Settings.
       * Change the minimum build API to Android 4.4.
+      *
      
   * Samsung Gear VR
       * Make sure that the Android Build Support component is selected during installation. ![alt text](https://github.com/saayv1/cedarvalleyvrcamp/blob/master/installer-android-build-support.png "Install android")
@@ -47,3 +48,4 @@ Course material, projects undertaken by high school students at Cedar Valley for
       * Select Android and click Switch Platform.
       * In the Build Settings window, click Player Settings.
       * Change the minimum build API to Android 4.4.
+      * 
