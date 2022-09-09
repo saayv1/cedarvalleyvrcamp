@@ -1,7 +1,9 @@
 # cedarvalleyvrcamp #
 Course material, projects undertaken by high school students at Cedar Valley for a 2 week VR bootcamp
 
-*still under development
+*still under development. 
+
+Update 2022, a lot of this is outdated, I might have to check to see if any of these projects work on the latest version of Unity. If so, GREAT! This is a great resource for teaching children (and adults too) about the wee basics of Unity, without any code!
 
 ## Course material ##
   * ### Unity scene development ###
